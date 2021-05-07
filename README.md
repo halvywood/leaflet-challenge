@@ -11,4 +11,4 @@
 * Including popups that provide additional information about the earthquake when a marker is clicked
 * Creating a legend that provides context for a map data
 
-![GitHub Logo](/images/Markdown-image.jpg)
+![GitHub Logo](images/Markdown-image.jpg)
