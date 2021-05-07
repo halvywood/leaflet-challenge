@@ -1,7 +1,5 @@
 # USGS-Earthquakes-Visualization
 
-## Deployment Link
-
 **Basic Visualization**
 * Data is taken from USGS which provides earthquake data in a number of different formats, updated every 5 minutes
 * The URL of JSON is used to pull in the data for our visualization
